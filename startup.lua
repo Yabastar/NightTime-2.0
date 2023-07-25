@@ -34,7 +34,7 @@ local testing = false -- DO NOT CHANGE! ONLY IF IT IS A TESTING FILE!
 
 local test = false
 local active = true
-local level = 0
+local level = 20
 
 function tablelength(T)
   local count = 0
